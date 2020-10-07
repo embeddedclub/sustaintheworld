@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Project MotherSystem_Version="" Name="GPIO_TOGGLE_XMC42" Path="C:\Ashok\Software\XMC_Peripheral_Library_v2.1.24\XMCLib\examples\XMC4200_series\GPIO\GPIO_TOGGLE\DAVE">
+    <COMPILER>
+        <Name>ARM_GCC_HOME</Name>
+        <Version/>
+        <Memory_Model/>
+    </COMPILER>
+    <DEVICE>
+        <Sales_Code>XMC4200-Q48x256</Sales_Code>
+        <Description/>
+    </DEVICE>
+    <Generated_Files>
+        <Source_Files/>
+        <Header_Files/>
+        <Library_Files/>
+        <Assembly_Files/>
+    </Generated_Files>
+    <Include_Path>
+        <Path>\Libraries\CMSIS\Include</Path>
+        <Path>\Libraries\CMSIS\Infineon\XMC4200_series\Include</Path>
+        <Path>\Libraries\XMCLib\inc</Path>
+        <Path>\..</Path>
+        <Path>\Dave\Generated</Path>
+        <Path/>
+    </Include_Path>
+    <Preprocessor_Symbols>
+        <Assembler_Symbol>XMC4200_Q48x256=</Assembler_Symbol>
+        <Compiler_Symbol>XMC4200_Q48x256=</Compiler_Symbol>
+    </Preprocessor_Symbols>
+</Project>
